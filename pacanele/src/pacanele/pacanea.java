@@ -1,0 +1,29 @@
+package pacanele;
+
+import java.awt.Color;
+import java.awt.FlowLayout;
+import java.awt.Graphics;
+import java.awt.image.BufferedImage;
+import java.awt.image.ImageObserver;
+import java.io.IOException;
+
+import javax.imageio.ImageIO;
+import javax.swing.ImageIcon;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+import javax.swing.SwingUtilities;
+
+public class pacanea {
+	
+	
+	public static void main(String[] args){
+			JFrame obj = new JFrame();
+			Engine engine = new Engine();
+			obj.setBounds(200, 0, 1400, 1000);
+			obj.setVisible(true);
+			obj.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+			obj.add(engine);
+			obj.addKeyListener(engine);
+	}
+}

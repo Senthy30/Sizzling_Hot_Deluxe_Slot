@@ -1,0 +1,7 @@
+\fruits\seven.jpg
+\fruits\melon.jpg
+\fruits\grapes.jpg
+\fruits\plum.jpg
+\fruits\orange.jpg
+\fruits\lemon.jpg
+\fruits\cherry.jpg
