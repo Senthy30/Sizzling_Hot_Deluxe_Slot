@@ -11,3 +11,6 @@ To select the red card press <b>Right Arrow</b>. <br>
 To withdraw gambling winnings press <b>Enter</b>. 
  
 # Quick Demo
+
+A 45 seconds video about how the game works.
+https://youtu.be/zLy1iYReBiE
