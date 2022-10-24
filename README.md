@@ -3,11 +3,11 @@ Project was created using Eclipse IDE.
 
 # How to play
 
-Once the play button has been pressed, a new window will open with the game.
-To roll press Space
-Once you've won something, you can gamble the winning by hitting Enter and selecting black or red.
-To select the black card press Left Arrow.
-To select the red card press Right Arrow.
-To withdraw gambling winnings press Enter.
-
+Once the play button has been pressed, a new window will open with the game. <br>
+To roll press <b>Space</b> <br>
+Once you've won something, you can gamble the winning by hitting <b>Enter</b> and selecting black or red. <br>
+To select the black card press <b>Left Arrow</b>. <br>
+To select the red card press <b>Right Arrow</b>. <br>
+To withdraw gambling winnings press <b>Enter</b>. 
+ 
 # Quick Demo
