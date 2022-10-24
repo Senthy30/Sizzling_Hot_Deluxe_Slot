@@ -12,5 +12,5 @@ To withdraw gambling winnings press <b>Enter</b>.
  
 # Quick Demo
 
-A 45 seconds video about how the game works. <br>
-https://youtu.be/zLy1iYReBiE
+A 46 seconds video about how the game works. <br>
+https://www.youtube.com/watch?v=zLy1iYReBiE
